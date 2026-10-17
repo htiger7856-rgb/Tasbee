@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Noor-e-Tasbeeh – Digital Tasbee Counter",
+  "short_name": "Noor-e-Tasbeeh",
+  "description": "Offline digital tasbeeh counter with daily history, goals and backups. No ads, no login.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf6e9",
+  "theme_color": "#0b5d44",
+  "lang": "en",
+  "categories": ["lifestyle", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
